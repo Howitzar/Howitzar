@@ -53,16 +53,28 @@ Outside of data, I enjoy learning about emerging technologies, cybersecurity, ne
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib">
 </p>
 
-#### Programming & Automation
+#### 💻 Programming
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-#### Business Intelligence & Analytics
+#### 📈 Machine Learning & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge" alt="Data Cleaning">
+  <img src="https://img.shields.io/badge/EDA-2196F3?style=for-the-badge" alt="Exploratory Data Analysis">
+  <img src="https://img.shields.io/badge/Data%20Visualisation-9C27B0?style=for-the-badge" alt="Data Visualisation">
+  <img src="https://img.shields.io/badge/Feature%20Engineering-FF9800?style=for-the-badge" alt="Feature Engineering">
+</p>
+
+#### 🏥 Domain Knowledge
+<p>
+  <img src="https://img.shields.io/badge/Healthcare%20Analytics-009688?style=for-the-badge" alt="Healthcare Analytics">
+  <img src="https://img.shields.io/badge/Bioinformatics-3F51B5?style=for-the-badge" alt="Bioinformatics">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-00BCD4?style=for-the-badge" alt="Statistical Analysis">
+  <img src="https://img.shields.io/badge/Technical%20Reporting-795548?style=for-the-badge" alt="Technical Reporting">
 </p>
