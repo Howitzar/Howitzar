@@ -24,7 +24,7 @@ I'm continuously building projects that demonstrate practical analytical skills�
 Outside of data, I enjoy learning about emerging technologies, cybersecurity, neuroscience and artificial intelligence; Reading, Art, Sports
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://Howitzar.github.io/)
+### 📂 Featured Projects
       
 ## 👨‍💻 Current Projects
 
