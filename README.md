@@ -23,21 +23,74 @@ I'm continuously building projects that demonstrate practical analytical skills�
 
 Outside of data, I enjoy learning about emerging technologies, cybersecurity, neuroscience and artificial intelligence; Reading, Art, Sports
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### 📂 Featured Projects
+## 📂 Featured Projects
+### 🛡️ Phishing Email Detection using Machine Learning
+
+> Python • PySpark • Scikit-learn • Machine Learning • Data Analysis
+
+Developed a machine learning pipeline to classify phishing and legitimate emails using a large-scale dataset. The project involved data preprocessing, exploratory data analysis, feature engineering, model training and evaluation.
+
+**Highlights**
+
+- Cleaned and prepared thousands of email records
+- Performed exploratory data analysis
+- Built classification models
+- Evaluated model performance
+- Produced a technical report documenting methodology and findings
+
+🔗 Repository
+
+📄 Technical Report
+
+### 🏥 NHS Waiting Times Dashboard (In Progress)
+
+Python • SQL • Excel • Power BI
+
+Analysing NHS Referral to Treatment datasets to identify trends in waiting times across England.
+
+Current Progress
+
+✔ Data Cleaning
+
+✔ Exploratory Analysis
+
+🚧 Dashboard Development
+
+🚧 SQL Integration
+
+🚧 Power BI Visualisation
+
+🔗 Repository
       
 ## 👨‍💻 Current Projects
 
-- 📊 NHS Waiting Times Analysis
-  Cleaning, analysing, and visualising NHS RTT datasets using Excel, Sql, and Power BI  
-- 🧠 Healthcare Data Analytics
-  Building dashboards and exploring trends within healthcare datasets
-- 
+🚧 NHS Waiting Times Dashboard
 
-## 🌱 Currently Learning 
+🚧 SQL Interview Practice Repository
 
-- Advanced machine learning techniques in Scikit-learn
-- Cloud data warehousing with Google BigQuery
+🚧 Power BI Dashboard Collection
+
+🚧 Python Data Analysis Notebook Collection
+
+## 💡 Other Projects
+
+🎮 Java Game Development
+
+Developing a 2D Java game focusing on object-oriented programming, game mechanics and software design principles.
+
+🤖 AI Assistant
+
+Python-based conversational AI assistant integrating speech recognition, text-to-speech and OpenAI APIs.
+
+
+## 🌱 Currently Learning
+
+- Advanced SQL for Analytics
+- Power BI Dashboard Design
+- Scikit-learn Machine Learning
+- Google BigQuery
+- Azure Data Fundamentals
+- Data Engineering Concepts
 
 ## 🛠️ Technical Skillset
 
