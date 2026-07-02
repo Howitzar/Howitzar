@@ -78,3 +78,10 @@ Outside of data, I enjoy learning about emerging technologies, cybersecurity, ne
   <img src="https://img.shields.io/badge/Statistical%20Analysis-00BCD4?style=for-the-badge" alt="Statistical Analysis">
   <img src="https://img.shields.io/badge/Technical%20Reporting-795548?style=for-the-badge" alt="Technical Reporting">
 </p>
+
+## Current Goals
+- Build 10 Professional data analytics projects
+- Master SQL
+- Become proficient in Power BI
+- Contribute to open-source projects
+- Secure a Data Analyst role
